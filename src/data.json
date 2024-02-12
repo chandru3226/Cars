@@ -1,0 +1,136 @@
+{
+    "modelDetails" : [
+        {
+            "model" : "Suzuki",
+            "location" : "Chennai",
+            "color" : "Blue",
+            "noOfOwners" : "2",
+            "yearOfManufacture" : "2018",
+            "transmission" : "Manual",
+            "insuranceValidUpto" : "2023",
+            "externalFitments" : "No",
+            "kms" : "25000",
+            "photo" : ""
+        },
+        {
+            "model" : "Hyundai",
+            "location" : "Bangalore",
+            "color" : "White",
+            "noOfOwners" : "1",
+            "yearOfManufacture" : "2022",
+            "transmission" : "Automatic",
+            "insuranceValidUpto" : "2024",
+            "externalFitments" : "Yes",
+            "kms" : "10000",
+            "photo" : ""
+        },
+        {
+            "model" : "Renault",
+            "location" : "Coimbatore",
+            "color" : "Red",
+            "noOfOwners" : "1",
+            "yearOfManufacture" : "2016",
+            "transmission" : "Automatic",
+            "insuranceValidUpto" : "2020",
+            "externalFitments" : "No",
+            "kms" : "150000",
+            "photo" : ""
+        },
+        {
+            "model" : "Honda",
+            "location" : "Chennai",
+            "color" : "White",
+            "noOfOwners" : "1",
+            "yearOfManufacture" : "2020",
+            "transmission" : "Manual",
+            "insuranceValidUpto" : "2023",
+            "externalFitments" : "No",
+            "kms" : "34000",
+            "photo" : ""
+        },
+        {
+            "model" : "Tata",
+            "location" : "Madurai",
+            "color" : "Red",
+            "noOfOwners" : "2",
+            "yearOfManufacture" : "2019",
+            "transmission" : "Manual",
+            "insuranceValidUpto" : "2021",
+            "externalFitments" : "No",
+            "kms" : "26500",
+            "photo" : ""
+        },
+        {
+            "model" : "Ford",
+            "location" : "Hyderabad",
+            "color" : "White",
+            "noOfOwners" : "3",
+            "yearOfManufacture" : "2015",
+            "transmission" : "Manual",
+            "insuranceValidUpto" : "2024",
+            "externalFitments" : "Yes",
+            "kms" : "76000",
+            "photo" : ""
+        },
+        {
+            "model" : "Volkswagen",
+            "location" : "Chennai",
+            "color" : "Blue",
+            "noOfOwners" : "1",
+            "yearOfManufacture" : "2024",
+            "transmission" : "Automatic",
+            "insuranceValidUpto" : "2028",
+            "externalFitments" : "No",
+            "kms" : "1500",
+            "photo" : ""
+        },
+        {
+            "model" : "Mahindra",
+            "location" : "Coimbatore",
+            "color" : "Silver",
+            "noOfOwners" : "2",
+            "yearOfManufacture" : "2016",
+            "transmission" : "Manual",
+            "insuranceValidUpto" : "2020",
+            "externalFitments" : "No",
+            "kms" : "20000",
+            "photo" : ""
+        },
+        {
+            "model" : "Toyota",
+            "location" : "Bangalore",
+            "color" : "White",
+            "noOfOwners" : "3",
+            "yearOfManufacture" : "2019",
+            "transmission" : "Manual",
+            "insuranceValidUpto" : "2025",
+            "externalFitments" : "No",
+            "kms" : "100000",
+            "photo" : ""
+        },
+        {
+            "model" : "BMW",
+            "location" : "Chennai",
+            "color" : "Red",
+            "noOfOwners" : "2",
+            "yearOfManufacture" : "2020",
+            "transmission" : "Automatic",
+            "insuranceValidUpto" : "2024",
+            "externalFitments" : "Yes",
+            "kms" : "25000",
+            "photo" : ""
+        },
+        {
+            "model" : "Mercedes-Benz",
+            "location" : "Bangalore",
+            "color" : "White",
+            "noOfOwners" : "2",
+            "yearOfManufacture" : "2019",
+            "transmission" : "Automatic",
+            "insuranceValidUpto" : "2023",
+            "externalFitments" : "No",
+            "kms" : "76000",
+            "photo" : ""
+        }
+    ]
+}
